@@ -1,2 +1,2 @@
-# News_App
-This is a python based application that shows top 10 headlines.
+# Clock
+This is a front_end based application that shows a clock with real time with beautiful UI.
